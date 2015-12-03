@@ -1,15 +1,15 @@
 ---
 layout: reveal
-title: "Overview of Media Asset Management (MAM)"
+title:  "Overview of Media Asset Management (MAM)"
 tagline: "Media Assest Management"
 theme: simple
-permalink: intro-to-mam
+permalink: hello-world
 intro_slide: intro.md
 final_slide: contact.md
 ---
 <script type="text/template">
-    # Media Asset Management
-    Why, What and How ?
+    # Slide 1
+     Media Asset Management
     
     ----
 
@@ -22,26 +22,44 @@ final_slide: contact.md
 
     ====
     
-    ## What is Presentations
-
-    - a presentation management system
-    - maintains the presentation on git-pages (configurable with a custom domain of your choice)
-    - Self hosted and Free (both as in freedom and cost)
-    - High availability
-    - Community driven and Licenced under GNU/GPL
+    ## Registration Form
     
+    - Registration Page details
+    - More details if needed
+
     ----
 
+    - ![Image 1]({{site.baseurl}}/img/mam/Registration_Form.png)
+    
+    
+    ====
+
+    ## Login Form
+
+    - ![Image 2]({{site.baseurl}}/img/mam/Login_Form.png)
+    
+    ----
+   
+    ##Ingesting video
+   
+      - ![Image 3]({{site.baseurl}}/img/mam/Ingesting_video.png)
+
+    ----
+    
+    ##
+    
+     - ![Image 4]({{site.baseurl}}/img/mam/Injesting_video.png)
+
     - Write more about this here
     - Write more about this here
     - Write more about this here
     - Write more about this here
     - Write more about this here
-    - Write more about this here
+    - Write more about this heer
     
     Note:
         - This is a note for testing
-        
+    
     ----
     
     - Write even more about this here
