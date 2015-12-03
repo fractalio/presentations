@@ -1,0 +1,22 @@
+# Site settings
+title: voidspace
+email: null@voidspace.xyz
+description: > # this means to ignore newlines until "baseurl:"
+  Hello, I'm Ramaseshan. A working IT professional, who loves to go to colleges and give talks on various technologies.
+  Check out my presentations in this site.
+
+# Prod
+baseurl: "/presentations/" # the subpath of your site, e.g. /blog/
+url: "http://voidspace.xyz"#the base hostname & protocol for your site
+
+twitter_username: seshan228
+github_username:  ramaseshan
+css: "cyan lighten-1"
+scroll-cursor: "#00BCD4"
+scroll-rail: "#0097A7"
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+lsi: false
+safe: false

@@ -1,0 +1,28 @@
+---
+layout: home
+---
+<div>
+    <div id="skrollr-body">
+        <div id="non-skrollr">
+            <div class="row">
+                {% for post in site.posts %}
+                <div class="col s12 m6 l6">
+                  <div class="card hoverable {% if post.highlight-color == '' %} {{post.highlight-color}} {% else %} cyan {% endif %} darken-4">
+                    <div class="card-content white-text">
+                      <span class="card-title"><p class="flow-text">{{post.title}}</p></span>
+                      <p>
+                          {{post.tagline}}
+                      </p>
+                    </div>
+                    <div class="card-action">
+                      <div class="valign-wrapper">
+                        <a class="valign" href="{{site.baseurl}}{{post.permalink}}">View Presentation</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
