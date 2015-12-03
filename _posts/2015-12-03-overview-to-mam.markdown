@@ -1,9 +1,9 @@
 ---
 layout: reveal
-title:  "Overview of Media Asset Management (MAM)"
+title: "Overview of Media Asset Management (MAM)"
 tagline: "Media Assest Management"
 theme: simple
-permalink: hello-world
+permalink: intro-to-mam
 intro_slide: intro.md
 final_slide: contact.md
 ---
@@ -41,7 +41,7 @@ final_slide: contact.md
     
     Note:
         - This is a note for testing
-    
+        
     ----
     
     - Write even more about this here
