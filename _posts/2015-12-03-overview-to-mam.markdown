@@ -3,6 +3,7 @@ layout: reveal
 title:  "Overview of Media Asset Management (MAM)"
 tagline: "Media Assest Management"
 theme: simple
+transition: linear
 permalink: hello-world
 intro_slide: intro.md
 final_slide: contact.md
@@ -35,12 +36,18 @@ final_slide: contact.md
     ====
 
     ## Login Form
-
-    - ![Image 2]({{site.baseurl}}/img/mam/Login_Form.png)
+    -
+    -
     
     ----
+    
+    - ![Image 2]({{site.baseurl}}/img/mam/Login_Form.png)
+    
+    ====
    
     ##Ingesting video
+    -   
+   
    
       - ![Image 3]({{site.baseurl}}/img/mam/Ingesting_video.png)
 

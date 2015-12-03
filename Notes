@@ -11,3 +11,13 @@ List of Themes Available :
 	            Night
 	            Moon
 	            Solarized
+
+List of Tranisitions available :
+                default
+                cube
+                page
+                concave
+                zoom
+                linear
+                fade
+                none
